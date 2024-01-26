@@ -277,6 +277,9 @@ img {
     background-color: #FFFFFF;
     
 }
+.section-three-card {
+    padding: 32px 0;
+}
 .section-three-name {
     color: var(--NAVY-BLUE, #2E2F42);
         font-family: Roboto;
@@ -287,7 +290,7 @@ img {
         /* 120% */
         letter-spacing: 0.4px;
         padding-top: 32px;
-        padding-bottom: 8px;
+        margin-bottom: 8px;
         text-align: center;
 }
 .section-three-text {
