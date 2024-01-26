@@ -167,8 +167,7 @@ img {
 }
 .section-one {
     background: var(--NAVY-BLUE, #2E2F42);
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 188px 0;
    
     
 }
@@ -200,6 +199,10 @@ img {
             border-radius: 4px;
             padding: 16px 32px;
             margin: 0 auto;
+            display: block
+            min-width: 169px;
+            height: 56px;
+            border: none;
 }
 
 .button-section-one:hover {
